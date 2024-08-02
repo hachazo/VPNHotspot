@@ -14,7 +14,7 @@ plugins {
 android {
     namespace = "be.mygod.vpnhotspot"
 
-    val javaVersion = 11
+    val javaVersion = 17
     buildToolsVersion = "34.0.0"
     compileOptions {
         isCoreLibraryDesugaringEnabled = true
